@@ -4,7 +4,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:0A3D62,100:00B4D8&height=220&section=header&text=SHAWN%20S&fontSize=75&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=DevOps%20%7C%20Python%20%7C%20Cloud%20%7C%20Automation&descAlignY=60&descAlign=50&descColor=90E0EF&descSize=20" />
 
 <!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00B4D8&center=true&vCenter=true&width=750&height=50&lines=🚀+Aspiring+DevOps+Engineer+%7C+Karunya+University;🐍+Python+Developer+%7C+Automation+Enthusiast;☁️+KodeKloud+100+Days+of+DevOps+%2B+50+Days+of+Cloud;🔧+Maven+·+Ansible+·+Docker+·+Kubernetes+·+Jenkins;📦+Ship+it.+Break+it.+Fix+it.+Repeat." alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=3500&pause=1000&color=000AF7&center=true&vCenter=true&random=true&width=450&lines=Aspiring+DevOps+Engineer+;Karunya+University+;Python+Developer+;Automation+Enthusiasist;KodeKloud+100+Days+of+DevOps+;KodeKloud+50+Days+of+AWS+Cloud+;Maven+%E2%80%A2+Ansible+%E2%80%A2+Docker+;Kubernetes+%E2%80%A2+Jenkins" alt="Typing SVG" />
+</a>
 
 <br/>
 
