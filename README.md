@@ -5,7 +5,7 @@
 
 <!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=3500&pause=1000&color=000AF7&center=true&vCenter=true&random=true&width=450&lines=Aspiring+DevOps+Engineer+;Karunya+University+;Python+Developer+;Automation+Enthusiasist;KodeKloud+100+Days+of+DevOps+;KodeKloud+50+Days+of+AWS+Cloud+;Maven+%E2%80%A2+Ansible+%E2%80%A2+Docker+;Kubernetes+%E2%80%A2+Jenkins" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=3500&pause=1000&color=39FF14&center=true&vCenter=true&random=true&width=450&lines=Aspiring+DevOps+Engineer+;Karunya+University+;Python+Developer+;Automation+Enthusiasist;KodeKloud+100+Days+of+DevOps+;KodeKloud+50+Days+of+AWS+Cloud+;Maven+%E2%80%A2+Ansible+%E2%80%A2+Docker+;Kubernetes+%E2%80%A2+Jenkins" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -133,17 +133,16 @@ motto       : "Ship it. Break it. Fix it. Repeat. 🚀"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hacker3S&show_icons=true&theme=github_dark&border_color=00B4D8&title_color=00B4D8&icon_color=90E0EF&text_color=FFFFFF&include_all_commits=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Hacker3S&theme=github-dark-blue&border=00B4D8&ring=00B4D8&fire=90E0EF&currStreakLabel=00B4D8&stroke=0D1117&sideLabels=FFFFFF&dates=888888" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Hacker3S&show_icons=true&theme=github_dark&border_color=00B4D8&title_color=00B4D8&icon_color=90E0EF&text_color=FFFFFF&include_all_commits=true" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Hacker3S&theme=github-dark-blue&border=00B4D8&ring=00B4D8&fire=90E0EF&currStreakLabel=00B4D8&stroke=0D1117" width="49%" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hacker3S&layout=compact&theme=github_dark&border_color=00B4D8&title_color=00B4D8&text_color=FFFFFF&langs_count=8&hide=jupyter%20notebook" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hacker3S&layout=compact&theme=github_dark&border_color=00B4D8&title_color=00B4D8&text_color=FFFFFF&langs_count=8" width="49%" alt="Top Languages" />
 
 <br/><br/>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hacker3S&bg_color=0D1117&color=00B4D8&line=90E0EF&point=FFFFFF&area=true&area_color=0A3D62&hide_border=false&border_color=00B4D8&radius=6" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hacker3S&bg_color=0D1117&color=00B4D8&line=90E0EF&point=FFFFFF&area=true&area_color=0A3D62&hide_border=false&border_color=00B4D8&radius=6" width="98%" alt="Activity Graph" />
 
 </div>
 
@@ -152,7 +151,7 @@ motto       : "Ship it. Break it. Fix it. Repeat. 🚀"
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.netlify.app/?username=Hacker3S&theme=darkhub&column=7&margin-w=8&margin-h=8&no-bg=false&no-frame=false" />
+  <img src="https://github-profile-trophy.netlify.app/?username=Hacker3S&theme=onedark&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
