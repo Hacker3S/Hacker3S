@@ -34,7 +34,7 @@
 
 name        : "Shawn S"
 handle      : "Hacker3S"
-university  : "Karunya University, Kerala 🇮🇳"
+university  : "Karunya University, Tamil Nadu 🇮🇳"
 role        : "Student → Aspiring DevOps Engineer"
 
 internships :
@@ -47,7 +47,7 @@ active_challenges :
 
 currently_building :
   - "CI/CD Pipelines with Jenkins + Docker + Kubernetes"
-  - "Python Applications (Voice Assistant · Weather App · Chat App)"
+  - "Python Applications"
   - "AI-Based Career Guidance Portal (TypeScript)"
 
 linkedin    : "Daily posts documenting DevOps & Cloud learning 📣"
@@ -131,9 +131,11 @@ motto       : "Ship it. Break it. Fix it. Repeat. 🚀"
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hacker3S&show_icons=true&theme=github_dark&border_color=00B4D8&title_color=00B4D8&icon_color=90E0EF&text_color=FFFFFF&include_all_commits=true" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Hacker3S&show_icons=true&theme=github_dark&border_color=00B4D8&title_color=00B4D8&icon_color=90E0EF&text_color=FFFFFF" width="49%" alt="GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Hacker3S&theme=github-dark-blue&border=00B4D8&ring=00B4D8&fire=90E0EF&currStreakLabel=00B4D8&stroke=0D1117" width="49%" alt="GitHub Streak" />
 
 <br/><br/>
@@ -151,7 +153,7 @@ motto       : "Ship it. Break it. Fix it. Repeat. 🚀"
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.netlify.app/?username=Hacker3S&theme=onedark&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Hacker3S&theme=darkhub&column=7&margin-w=8&margin-h=8&no-bg=false&no-frame=false" alt="GitHub Trophies" />
 </div>
 
 ---
