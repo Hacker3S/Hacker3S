@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ═══════════════ HERO BANNER ═══════════════ -->
-<img src="https://readme-banners.vercel.app/api?type=terminal&text=SHAWN%20S&desc=DevOps%20%7C%20Python%20%7C%20Cloud%20%7C%20Automation&theme=matrix&font=JetBrains+Mono" width="100%" alt="Matrix Terminal Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:0A3D62,100:00B4D8&height=220&section=header&text=SHAWN%20S&fontSize=75&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=DevOps%20%7C%20Python%20%7C%20Cloud%20%7C%20Automation&descAlignY=60&descAlign=50&descColor=90E0EF&descSize=20" />
 
 <!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
 <a href="https://git.io/typing-svg">
@@ -182,5 +182,5 @@ motto       : "Ship it. Break it. Fix it. Repeat. 🚀"
 ---
 
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=slice&color=0d1117&text=SHAWN%20S&fontSize=70&fontColor=39FF14&fontAlignY=35&desc=DevOps%20%7C%20Python%20%7C%20Cloud%20%7C%20Automation&descAlignY=65&descColor=00B4D8&descSize=20&stroke=39FF14&strokeWidth=1&animation=twinkling" width="100%" alt="Cyber Banner" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,50:0A3D62,100:0D1117&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=FFFFFF&animation=fadeIn&fontAlignY=65" />
 </div>
