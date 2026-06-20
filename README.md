@@ -121,8 +121,8 @@ motto       : "Ship it. Break it. Fix it. Repeat. 🚀"
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hacker3S&repo=AI-based-CGP&theme=github_dark&border_color=00B4D8&title_color=00B4D8&icon_color=90E0EF&text_color=FFFFFF" />
 </a>
 &nbsp;
-<a href="https://github.com/Hacker3S/car-rental">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hacker3S&repo=car-rental&theme=github_dark&border_color=00B4D8&title_color=00B4D8&icon_color=90E0EF&text_color=FFFFFF" />
+<a href="https://github.com/Hacker3S/cicd-docker-pipeline">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hacker3S&repo=cicd-docker-pipeline&theme=github_dark&border_color=00B4D8&title_color=00B4D8&icon_color=90E0EF&text_color=FFFFFF" />
 </a>
 
 </div>
