@@ -94,12 +94,12 @@ motto       : "Ship it. Break it. Fix it. Repeat. 🚀"
 
 | 🏗️ Project | 🛠️ Stack | 📌 Status |
 |:---|:---|:---:|
-| **DevOps Internship Pipeline** | Maven · Jenkins · Docker · K8s · Ansible | 🟡 In Progress |
+| **DevOps Internship Projects** | Maven · Jenkins · Docker · K8s · Ansible | ✅ Completed |
 | **OIBSIP — Python Apps (×5)** | Python · Tkinter · APIs · Sockets | ✅ Completed |
 | **KodeKloud 100 Days of DevOps** | Linux · Shell · Docker · Kubernetes | 🟢 Active |
 | **KodeKloud 50 Days of Cloud** | AWS · IAM · EC2 · S3 · Lambda | 🟢 Active |
-| **AI Career Guidance Portal** | TypeScript · AI/ML Concepts | ✅ Completed |
-| **Car Rental System (OOP)** | Python · OOP Design | ✅ Completed |
+| **Kubernetes Production Deployment** | Kubernetes · Docker · Helm · Ingress(nginx) · Load Balancer · Prometheus · Grafana | 🟡 In Progress |
+| **CI/CD Docker Pipeline** | Python · Docker · CI/CD | ✅ Completed |
 
 ---
 
@@ -111,14 +111,14 @@ motto       : "Ship it. Break it. Fix it. Repeat. 🚀"
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hacker3S&repo=devops-internship-projects&theme=github_dark&border_color=00B4D8&title_color=00B4D8&icon_color=90E0EF&text_color=FFFFFF" />
 </a>
 &nbsp;
-<a href="https://github.com/Hacker3S/OIBSIP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hacker3S&repo=OIBSIP&theme=github_dark&border_color=00B4D8&title_color=00B4D8&icon_color=90E0EF&text_color=FFFFFF" />
+<a href="https://github.com/Hacker3S/dockerized-multi-service-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hacker3S&repo=dockerized-multi-service-app&theme=github_dark&border_color=00B4D8&title_color=00B4D8&icon_color=90E0EF&text_color=FFFFFF" />
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/Hacker3S/AI-based-CGP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hacker3S&repo=AI-based-CGP&theme=github_dark&border_color=00B4D8&title_color=00B4D8&icon_color=90E0EF&text_color=FFFFFF" />
+<a href="https://github.com/Hacker3S/kubernetes-production-deployment">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hacker3S&repo=kubernetes-production-deployment&theme=github_dark&border_color=00B4D8&title_color=00B4D8&icon_color=90E0EF&text_color=FFFFFF" />
 </a>
 &nbsp;
 <a href="https://github.com/Hacker3S/cicd-docker-pipeline">
