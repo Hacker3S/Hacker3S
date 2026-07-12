@@ -150,7 +150,7 @@ motto       : "Ship it. Break it. Fix it. Repeat. 🚀"
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Hacker3S&theme=darkhub&column=7&margin-w=8&margin-h=8&no-bg=false&no-frame=false" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Hacker3S&theme=darkhub&column=7&margin-w=8&margin-h=8&no-bg=false&no-frame=false" />
 </div>
 
 ---
